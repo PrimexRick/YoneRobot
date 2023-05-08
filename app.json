@@ -67,8 +67,7 @@
        "value": "league_of_bots"
     },    
     "KORA_API_TOKEN": {
-      "description": "generate your kora api token from @Camille_Robot",
-      "required": false
+      "description": "generate your kora api token from @Camille_Robot"
       "value": ""
    },  
     "PHOTO": {
